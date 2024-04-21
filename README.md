@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Githyb
+- 🔭 I’m currently working on Github
 - 🌱 I’m currently learning to develop a Web Application
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
